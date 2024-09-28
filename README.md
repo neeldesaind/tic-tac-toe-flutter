@@ -43,11 +43,8 @@ Contact: +91 81600 26509
 
 **Screenshots**
 
-**Game Screen**
-![Game Screen](https://github.com/user-attachments/assets/c91b53f2-a554-4368-8c56-5a2879179c12)
-
 **Player Name Entry**
-![Name Entry](https://github.com/user-attachments/assets/a2edf6f1-90ba-4d6d-bac6-d493205cbf81)
+![About Section](https://github.com/user-attachments/assets/8b13fef0-7e3f-4a15-ba6c-507e71597e65)
 
 **Player X Wins**
 ![Player X Wins](https://github.com/user-attachments/assets/042b58d8-a55a-42fc-9bf0-a1cbc9d1dd2b)
@@ -59,4 +56,7 @@ Contact: +91 81600 26509
 ![Draw Situation](https://github.com/user-attachments/assets/d20cbb59-c350-4480-b239-ccffacb1a29f)
 
 **About Section**
-![About Section](https://github.com/user-attachments/assets/8b13fef0-7e3f-4a15-ba6c-507e71597e65)
+![Name Entry](https://github.com/user-attachments/assets/a2edf6f1-90ba-4d6d-bac6-d493205cbf81)
+
+**Exit Screen**
+![Exit Screen](https://github.com/user-attachments/assets/c91b53f2-a554-4368-8c56-5a2879179c12)
