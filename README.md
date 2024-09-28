@@ -1,5 +1,5 @@
 **Introduction**
-**A simple Tic Tac Toe game built with Flutter. This application allows two players to play the classic game on a 3x3 grid, keeping track of their wins and allowing them to input their names.**
+A simple Tic Tac Toe game built with Flutter. This application allows two players to play the classic game on a 3x3 grid, keeping track of their wins and allowing them to input their names.
 
 **Features**
   1. Player Names: Players can enter their names before starting the game.
@@ -41,4 +41,22 @@ Developer: Neel Desai
 Email: neel.desai1653@gmail.com
 Contact: +91 81600 26509
 
+**Screenshots**
 
+**Game Screen**
+![Game Screen](https://github.com/user-attachments/assets/c91b53f2-a554-4368-8c56-5a2879179c12)
+
+**Player Name Entry**
+![Name Entry](https://github.com/user-attachments/assets/a2edf6f1-90ba-4d6d-bac6-d493205cbf81)
+
+**Player X Wins**
+![Player X Wins](https://github.com/user-attachments/assets/042b58d8-a55a-42fc-9bf0-a1cbc9d1dd2b)
+
+**Player O Wins**
+![Player O Wins](https://github.com/user-attachments/assets/8cb8cb05-f423-4a1f-8f51-4a9b250c84f7)
+
+**Draw Situation**
+![Draw Situation](https://github.com/user-attachments/assets/d20cbb59-c350-4480-b239-ccffacb1a29f)
+
+**About Section**
+![About Section](https://github.com/user-attachments/assets/8b13fef0-7e3f-4a15-ba6c-507e71597e65)
