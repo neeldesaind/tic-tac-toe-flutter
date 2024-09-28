@@ -1,16 +1,42 @@
-# tictactoe
+**Introduction**
+**A simple Tic Tac Toe game built with Flutter. This application allows two players to play the classic game on a 3x3 grid, keeping track of their wins and allowing them to input their names.**
 
-A new Flutter project.
+**Features**
+  1. Player Names: Players can enter their names before starting the game.
+  2. Game Board: Interactive 3x3 grid where players can place their marks (X or O).
+  3. Win and Draw Detection: The app checks for a winner or a draw after each turn.
+  4. Win Counts: Keeps track of the number of wins for each player.
+  5. Responsive Design: Adapts to various screen sizes.
+  6. About Section: Information about the developer and contact details.
+  7. Exit Confirmation: Prompts the user for confirmation before exiting the app.
 
-## Getting Started
+**Requirements**
+  - Flutter SDK (2.0 or later)
+  - Dart SDK (2.12 or later)
 
-This project is a starting point for a Flutter application.
+**Installation**
+**Clone the repository:**
+  git clone https://github.com/yourusername/tic-tac-toe.git
+  cd tic-tac-toe
 
-A few resources to get you started if this is your first Flutter project:
+**Install dependencies:**
+  flutter pub get
+  Run the app
+  flutter run
+  
+**Usage**
+ - Enter player names in the dialog box that appears at the start of the game.
+ - Players take turns tapping on the grid to place their marks.
+ - The game detects wins and draws, displaying the appropriate dialog.
+ -  Players can choose to play again after a game ends.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Contributing**
+- If you would like to contribute to this project, please fork the repository and create a pull request.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**License**
+- This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Contact**
+Developer: Neel Desai
+Email: neel.desai1653@gmail.com
+Contact: +91 81600 26509
