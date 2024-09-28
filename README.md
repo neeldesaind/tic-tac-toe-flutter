@@ -34,7 +34,7 @@ A simple Tic Tac Toe game built with Flutter. This application allows two player
 - If you would like to contribute to this project, please fork the repository and create a pull request.
 
 **License**
-- This project is licensed under the MIT License. See the LICENSE file for details.
+- This project is licensed under the MIT License. See the [LICENSE](https://github.com/neeldesaind/tic-tac-toe-flutter/blob/main/LICENSE) file for details.
 
 **Contact**
 Developer: Neel Desai
