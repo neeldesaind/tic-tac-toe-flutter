@@ -15,7 +15,7 @@ class TicTacToeGame extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white, // Set app's background color to white
       ),
       home: TicTacToeBoard(),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
